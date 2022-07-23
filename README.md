@@ -1,1 +1,1 @@
-# SeleniumTestProject
+This is a Selenium Project.
