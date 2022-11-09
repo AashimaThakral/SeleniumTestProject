@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="commonComponents.Listeners"></listener>
+        </listeners>
+    <test verbose="2" preserve-order="true" name="/Users/aashimathakral/Documents/SeleniumTestProject/testngxml">
+        <classes>
+            <class name="testFiles.ExcelTest"></class>
+        </classes>
+    </test>
+</suite>
